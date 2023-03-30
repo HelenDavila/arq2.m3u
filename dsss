@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP HD ᶜᴰᴺ²" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP HD ᶜᴰᴺ²
+http://7go.xyz:8080/554192040704/asd8548411/18569
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP SD¹" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP SD¹
+http://7go.xyz:8080/554192040704/asd8548411/18576
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO VERDES MARES FORTALEZA HD¹" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO VERDES MARES FORTALEZA HD¹
+http://7go.xyz:8080/554192040704/asd8548411/29578
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV! SD¹
+http://7go.xyz:8080/554192040704/asd8548411/64619
+#EXTINF:-1 tvg-id="aande.br" tvg-name="CANAL DO BOI SD²" tvg-logo="http://i.imgur.com/UHRVrRV.png" group-title="CANAIS | AGRONEGÓCIOS",CANAL DO BOI SD²
+http://7go.xyz:8080/554192040704/asd8548411/22304
+#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL HD¹" tvg-logo="https://1.bp.blogspot.com/-hiEUiSCUgkA/XvlhqLVSEuI/AAAAAAAAKDw/z-91MMDZx-80t8_ThMo_Yjt5DHmrmN8ywCLcBGAsYHQ/s1600/agrobrasil.png" group-title="CANAIS | AGRONEGÓCIOS",AGRO BRASIL HD¹
+http://7go.xyz:8080/554192040704/asd8548411/25676
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RECORD BRASILIA DF HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD BRASILIA DF HD²
+http://7go.xyz:8080/554192040704/asd8548411/22596
+
